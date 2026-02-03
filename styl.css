@@ -1,0 +1,51 @@
+main{
+    display: flex;
+}
+footer{
+    clear: both;
+}
+
+#HD{
+    background-color:teal;
+    height: 50px;
+}
+#MAIN{
+    background-color: burlywood;
+    
+}
+#NAV{
+    background-color: salmon;
+    height: 60px;
+    
+}
+#S1{
+    background-color:indigo;
+    height: 140px;
+    float: left;
+    width: 50%;
+}
+#S2{
+    background-color: goldenrod;
+    height: 140px;
+    width: 50%;
+    float: right;
+    
+}
+#AS{
+    background-color: mediumturquoise;
+    height: 200px;
+    
+}
+#FT{
+    background-color: magenta;
+    height: 50px;
+}
+#left_up{
+
+}
+#left{
+width: 60%;
+}
+#right{
+width: 40%;
+}
